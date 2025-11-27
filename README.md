@@ -86,14 +86,4 @@ Matches the architecture used in Vinyals et al. (2015)
 
 Easy to implement and understand
 
-☑️ Final Result
 
-Once you paste this in, your README will contain:
-
-All questions the instructor asked
-
-All correct explanations
-
-Everything formatted neatly
-
-This is exactly what your instructor wants to see.
